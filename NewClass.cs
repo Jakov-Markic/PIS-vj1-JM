@@ -8,5 +8,6 @@ namespace PIS_vj1_JM
 {
     internal class NewClass
     {
+        public int classNumber();
     }
 }
