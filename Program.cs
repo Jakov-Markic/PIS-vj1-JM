@@ -8,7 +8,7 @@ namespace MyApp
         {
             Console.WriteLine("Nikad na lazio");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Kako je");
+            Console.WriteLine("Kako je, nije dobro");
         }
     }
 }
